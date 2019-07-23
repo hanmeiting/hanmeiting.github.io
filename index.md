@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+##还有来到韩婷的个人主页
 
-You can use the [editor on GitHub](https://github.com/hanmeiting/hanmeiting.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用[GitHub上的编辑器] （https://github.com/hanmeiting/hanmeiting.github.io/edit/master/index.md）在Markdown文件中维护和预览您网站的内容。
+我大哥非要我写一个网上d的简历
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###空素我大哥Markdown是一种轻量级且易于使用的语法，用于为您的写作设计风格。它包括的公约
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+控诉我大哥第一点：哼
+齐天铭
 
 ```markdown
 Syntax highlighted code block
